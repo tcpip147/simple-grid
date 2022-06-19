@@ -1,0 +1,33 @@
+.simple-grid-frame-container {
+    outline-color: #C0C0C0;
+    outline-style: solid;
+}
+
+.simple-grid-frame-scroll {
+    background-color: #E1E1E1;
+}
+
+.simple-grid-frame-scroll-button1-wrapper {
+    background-color: #D1D1D1;
+}
+
+.simple-grid-frame-scroll-cursor-wrapper {
+    background-color: #E1E1E1;
+}
+
+.simple-grid-frame-scroll-cursor {
+    background-color: #C0C0C0;
+}
+
+.simple-grid-frame-scroll-button2-wrapper {
+    background-color: #D1D1D1;
+}
+
+.simple-grid-table-cell {
+    outline: 1px solid red;
+}
+
+.simple-grid-table-cell {
+    position: absolute;
+    outline: 1px solid red;
+}
